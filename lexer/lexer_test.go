@@ -1,10 +1,10 @@
 package lexer
 
 import (
-	"testing"
 	"monkey_lang/token"
+	"testing"
 )
 
-func TestNextToken( t *testing.T) {
-  input := `=+(){},;`
+func TestNextToken(t *testing.T) {
+	input := `=+(){},;`
 }
